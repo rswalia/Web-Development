@@ -1,0 +1,1 @@
+alert("Jldi vaha se hato")
